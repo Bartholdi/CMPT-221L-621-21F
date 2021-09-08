@@ -1,0 +1,28 @@
+body {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 700px;
+    border: 20px #bdc3c7 solid;
+    padding: 20px;
+    font-family: "Source Sans Pro";
+}
+
+h2 {
+    font-size: 2.0rem;
+}
+
+#initialHeader {
+    margin-top: 0; 
+}
+
+.date {
+    color: #3498db;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+
+.gray-bar {
+    border-left: 5px #bdc3c7 solid;
+    padding-left: 10px;
+}
