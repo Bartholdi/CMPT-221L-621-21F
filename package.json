@@ -1,0 +1,30 @@
+{
+  "name": "cmpt-221l-621-21f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ijavascript": "^5.2.0",
+    "jmp": "^2.0.0",
+    "jp-kernel": "^2.0.0",
+    "nan": "^2.14.2",
+    "nel": "^1.2.0",
+    "node-gyp-build": "^4.3.0",
+    "uuid": "^3.4.0",
+    "zeromq": "^5.2.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bartholdi/CMPT-221L-621-21F.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bartholdi/CMPT-221L-621-21F/issues"
+  },
+  "homepage": "https://github.com/Bartholdi/CMPT-221L-621-21F#readme"
+}
