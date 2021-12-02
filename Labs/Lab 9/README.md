@@ -4,3 +4,4 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+# to deploy a new website, first I would make a new folder with the name of the website as the name. Second I would make a modules, pages and routes folder inside the main folder. Next I would add the SCSS library to add style to the website. Next I would add code and test for it to run and making sure it works. After everything runs and everything is planned out. I would look for a place to serve the website. 
